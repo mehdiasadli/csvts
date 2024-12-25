@@ -49,12 +49,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/mehdiasadli/csvts.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/mehdiasadli/csvts/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/mehdiasadli/csvts#readme",
   "devDependencies": {
     "@types/jest": "^29.5.11",
     "@types/node": "^20.10.6",
