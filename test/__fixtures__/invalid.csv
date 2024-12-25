@@ -1,0 +1,9 @@
+name,age,email
+John,invalid_age,john@example.com
+Mary,25,invalid_email
+Bob,30,bob@example.com,extra_field
+,,,
+Invalid row without enough fields
+"Unclosed quote,40,test@example.com
+# This is a comment
+Valid,50,valid@example.com

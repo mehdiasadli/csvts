@@ -1,0 +1,6 @@
+id,first_name,last_name,email,date_of_birth,country
+1,John,Doe,john@example.com,1990-01-15,USA
+2,Jane,Smith,jane@example.com,1992-03-20,Canada
+3,Bob,Johnson,bob@example.com,1985-12-10,UK
+4,Alice,Williams,alice@example.com,1988-07-25,Australia
+5,Charlie,Brown,charlie@example.com,1995-05-30,Germany

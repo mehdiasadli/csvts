@@ -1,0 +1,6 @@
+sku,name,description,price,category,in_stock
+P001,"Laptop Pro 15""","High-performance laptop, 15"" display",1299.99,Electronics,true
+P002,"Coffee Maker, Deluxe","12-cup programmable, ""Best Rated"" 2024",89.99,Kitchen,true
+P003,Basic Mouse,"Standard USB mouse, black",15.50,Electronics,false
+P004,"Large Desk, Oak","Solid oak desk, 60"" × 30""",399.99,Furniture,true
+P005,"Plant Pot, Ceramic","Hand-painted, 8"" diameter",25.99,Home & Garden,true

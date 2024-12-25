@@ -1,0 +1,6 @@
+transaction_id,date,amount,currency,status,items_count
+T-001,2024-01-01,150.50,USD,completed,3
+T-002,2024-01-02,-25.99,EUR,refunded,1
+T-003,2024-01-02,1250.00,USD,completed,5
+T-004,2024-01-03,0.99,GBP,completed,1
+T-005,2024-01-03,499.99,USD,pending,2

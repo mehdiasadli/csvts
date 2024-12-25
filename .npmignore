@@ -1,0 +1,57 @@
+# Development files
+src/
+test/
+docs/
+examples/
+.github/
+coverage/
+.vscode/
+.idea/
+
+# Configuration files
+.eslintrc.js
+.prettierrc
+jest.config.js
+tsconfig.json
+tsconfig.build.json
+.editorconfig
+.gitignore
+.npmignore
+
+# CI/CD
+.github/
+.travis.yml
+.gitlab-ci.yml
+
+# Documentation
+CONTRIBUTING.md
+CHANGELOG.md
+docs/
+
+# Test files
+__tests__/
+test/
+*.test.ts
+*.spec.ts
+coverage/
+
+# Source maps
+*.map
+
+# TypeScript source
+*.ts
+!*.d.ts
+
+# Development tools
+.husky/
+.lint-staged.config.js
+.eslintignore
+
+# Misc
+.DS_Store
+*.log
+.env
+.env.*
+node_modules/
+tmp/
+temp/
